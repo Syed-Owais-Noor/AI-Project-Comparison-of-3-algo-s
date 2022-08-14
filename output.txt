@@ -1,0 +1,6 @@
+----------- Path given by DFS -----------
+
+NODE		VISITED AT
+a		0
+s		1
+g		2
